@@ -1,0 +1,25 @@
+title: João Thiago Rodrigues de Sousa, PhD
+url: "http://127.0.0.1:4000"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+#ID para rastreamento (Google Analytics, por exemplo)
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/joaors"
+footer_text: "Adaptado de Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
