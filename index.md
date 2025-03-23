@@ -9,7 +9,7 @@ layout: default
 
 Sou professor do magistério superior da Universidade Federal do Oeste do Pará, lotado no Instituto de Biodiversidade e Florestas na unidade Tapajós em Santarém-PA. Estou cursando segundo doutorado no Programa de Pós-Graduação em Estatística e Experimentação Agronômica (PPGEA) pela Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP) em Piracicaba-SP.
 
-<!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) --> #Para comentar
+<!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 ## Interesses de Pesquisa
 <!-- ## Research Interest -->
@@ -25,20 +25,20 @@ Desenvolvo pesquisas sobre Agroecologia, fruticultura, manejo e produção de a�
 <!-- ## Academic Backgroung -->
 
 - 🎓 **Doutorado em Estatística e Experimentação Agronomica**
--📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
-- 📅 2022 - atual
+  📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
+  📅 2022 - atual
 
 -🎓 **Doutorado em Ciências Agrárias**
--📍 Universidade Federal Rural da Amazônia (UFRA)
-- 📅 2011 - 2015
+  📍 Universidade Federal Rural da Amazônia (UFRA)
+  📅 2011 - 2015
 
 -🎓 **Mestrado em Agroecologia**
--📍 Universidade Estadual do Maranhão (UEMA)
--📅 2007 - 2009
+  📍 Universidade Estadual do Maranhão (UEMA)
+  📅 2007 - 2009
 
 -🎓 **Graduação em Agronomica**
--📍 Universidade Federal Rural da Amazônia (UFRA)
--📅 2002 - 2006
+  📍 Universidade Federal Rural da Amazônia (UFRA)
+  📅 2002 - 2006
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
 
