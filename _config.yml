@@ -20,7 +20,7 @@ nav:
  - name: "Sobre"
    link: "/about/"
  - name: "Publicações"
-   link: "/publication"
+   link: "/publication/"
  - name: "Disciplinas"
    link: "/courses/"
  - name: "Cursos"
