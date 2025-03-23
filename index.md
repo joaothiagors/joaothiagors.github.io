@@ -25,19 +25,30 @@ Desenvolvo pesuisa sobre Agroecologia, fruticultura, manejo e proudção de aça
 <!-- ## Academic Backgroung -->
 
 🎓 Doutorado em Estatística e Experimentação Agronomica
+
 📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
+
 📅 2022 - atual
 
+
 🎓 Doutorado em Ciências Agrárias
+
 📍 Universidade Federal Rural da Amazônia (UFRA)
+
 📅 2011 - 2015
 
+
 🎓 Mestrado em Agroecologia
+
 📍 Universidade Estadual do Maranhão (UEMA)
+
 📅 2007 - 2009
 
+
 🎓 Graduação em Agronomica
+
 📍 Universidade Federal Rural da Amazônia (UFRA)
+
 📅 2002 - 2006
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
@@ -56,9 +67,9 @@ Here is a horizontal rule
 
 -->
 
-Here is a blockquote
+<!-- Here is a blockquote -->
 
-> To a great mind, nothing is little
+> All models are wrong, but some are usefull (Box, G. E. P.)
 
 <!-- ## References
 
