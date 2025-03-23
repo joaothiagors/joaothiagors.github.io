@@ -28,15 +28,15 @@ Desenvolvo pesquisas sobre Agroecologia, fruticultura, manejo e produção de a�
   📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
   📅 2022 - atual
 
--🎓 **Doutorado em Ciências Agrárias**
+- 🎓 **Doutorado em Ciências Agrárias**
   📍 Universidade Federal Rural da Amazônia (UFRA)
   📅 2011 - 2015
 
--🎓 **Mestrado em Agroecologia**
+- 🎓 **Mestrado em Agroecologia**
   📍 Universidade Estadual do Maranhão (UEMA)
   📅 2007 - 2009
 
--🎓 **Graduação em Agronomica**
+- 🎓 **Graduação em Agronomica**
   📍 Universidade Federal Rural da Amazônia (UFRA)
   📅 2002 - 2006
 
