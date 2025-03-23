@@ -2,28 +2,47 @@
 layout: default
 ---
 
-## About Me
+## Sobre Mim
+<!--- ## About Me -->
 
 <img class="profile-picture" src="bass.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Sou professor do magistério superior da Universidade Federal do Oeste do Pará, lotado no Instituto de Biodiversidade e Florestas na unidade Tapajós em Santarém-PA. Estou cursando segundo doutorado no Programa de Pós-Graduação em Estatística e Experimentação Agronômica (PPGEA) pela Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP) em Piracicaba-SP.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) --> #Para comentar
 
-## Research Interest
+## Interesses de Pesquisa
+<!-- ## Research Interest -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Desenvolvo pesuisa sobre Agroecologia, fruticultura, manejo e proudção de açaí, aproveitamento de resíduos do menejo de açaizais nativos, processamento e fabricação de painéis laminados e colados de ripas de caule de aácizeiro e aplicação de modelos estatísticos para estimaçãao de redimento de caules de açaizeiro e predição do volume de suas ripas processadas.
 
-## Publications
+<!-- ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
-## Typography
+## Formação Acadêmica
+<!-- ## Academic Backgroung -->
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+🎓 Doutorado em Estatística e Experimentação Agronomica
+📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
+📅 2022 - atual
 
-Here is a table
+🎓 Doutorado em Ciências Agrárias
+📍 Universidade Federal Rural da Amazônia (UFRA)
+📅 2011 - 2015
+
+🎓 Mestrado em Agroecologia
+📍 Universidade Estadual do Maranhão (UEMA)
+📅 2007 - 2009
+
+🎓 Graduação em Agronomica
+📍 Universidade Federal Rural da Amazônia (UFRA)
+📅 2002 - 2006
+
+<!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
+
+<!-- Here is a table
 
 Year | Award | Category
 -----|-------|--------
@@ -35,11 +54,14 @@ Here is a horizontal rule
 
 ---
 
+-->
+
 Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
+<!-- ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+-->
