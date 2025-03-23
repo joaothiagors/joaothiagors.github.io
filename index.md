@@ -4,6 +4,6 @@ layout: default
 
 <img class="profile-picture" src="euterpe.png" >
 
-Sou professor do magistério superior da Universidade Federal do Oeste do Pará, lotado no Instituto de Biodiversidade e Florestas na unidade Tapajós em Santarém-PA. Estou cursando segundo doutorado no Programa de Pós-Graduação em Estatística e Experimentação Agronômica (PPGEA) pela Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP) em Piracicaba-SP.
+"_Somos poeira de estrelas que se organizou para entender o Universo. Essa busca pelo conhecimento é o que nos define. Não somos nada diante da vastidão cósmica, mas ao mesmo tempo somos tudo, porque carregamos em nós a chama da curiosidade e do desejo de compreender_."
 
-> All models are wrong, but some are usefull (Box, G. E. P.)
+>(Sêneca; Aurélio, M; Sagan, C.; Gleiser, M.)
