@@ -14,7 +14,7 @@ Sou professor do magistério superior da Universidade Federal do Oeste do Pará,
 ## Interesses de Pesquisa
 <!-- ## Research Interest -->
 
-Desenvolvo pesuisa sobre Agroecologia, fruticultura, manejo e proudção de açaí, aproveitamento de resíduos do menejo de açaizais nativos, processamento e fabricação de painéis laminados e colados de ripas de caule de aácizeiro e aplicação de modelos estatísticos para estimaçãao de redimento de caules de açaizeiro e predição do volume de suas ripas processadas.
+Desenvolvo pesquisas sobre Agroecologia, fruticultura, manejo e produção de açaí, aproveitamento de resíduos do menejo de açaizais nativos, processamento e fabricação de painéis laminados e colados de ripas de caule de aácizeiro e aplicação de modelos estatísticos para estimaçãao de redimento de caules de açaizeiro e predição do volume de suas ripas processadas.
 
 <!-- ## Publications
 
@@ -24,32 +24,21 @@ Desenvolvo pesuisa sobre Agroecologia, fruticultura, manejo e proudção de aça
 ## Formação Acadêmica
 <!-- ## Academic Backgroung -->
 
-🎓 Doutorado em Estatística e Experimentação Agronomica
+- 🎓 **Doutorado em Estatística e Experimentação Agronomica**
+-📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
+- 📅 2022 - atual
 
-📍 Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP)
+-🎓 **Doutorado em Ciências Agrárias**
+-📍 Universidade Federal Rural da Amazônia (UFRA)
+- 📅 2011 - 2015
 
-📅 2022 - atual
+-🎓 **Mestrado em Agroecologia**
+-📍 Universidade Estadual do Maranhão (UEMA)
+-📅 2007 - 2009
 
-
-🎓 Doutorado em Ciências Agrárias
-
-📍 Universidade Federal Rural da Amazônia (UFRA)
-
-📅 2011 - 2015
-
-
-🎓 Mestrado em Agroecologia
-
-📍 Universidade Estadual do Maranhão (UEMA)
-
-📅 2007 - 2009
-
-
-🎓 Graduação em Agronomica
-
-📍 Universidade Federal Rural da Amazônia (UFRA)
-
-📅 2002 - 2006
+-🎓 **Graduação em Agronomica**
+-📍 Universidade Federal Rural da Amazônia (UFRA)
+-📅 2002 - 2006
 
 <!-- This is a [link](http://google.com). Something *italics* and something **bold**. -->
 
