@@ -3,24 +3,27 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [joao.trs@ufopa.edu.br](mailto:joao.trs@ufopa.edu.br)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Fone: [+5591991319168](tel:+55 91 99131-9168)
 
 ---
 
-## Mailing Address
+## Endereço
 
-> 221B, Baker Street
+> Rua Vera Paz, s/n
 >
-> London
+> Unidade Tapajós, Bairro Salé - CEP 68040-255
 >
-> United Kingdom
+> Santarém - PA
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [ORCID](#)
+2. [Lattes](#)
+3. [Google Acadêmico](#)
+4. [LinkedIn](#)
+5. [Academia](#)
+6. [ResearchGate](#)

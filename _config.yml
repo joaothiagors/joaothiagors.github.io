@@ -17,20 +17,18 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "index.md"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
+ - name: "Sobre"
+   link: "about.md"
+ - name: "Contato"
    link: "contact"
  - name: "Publicações"
-   link: ""
+   link: "publication.md"
  - name: "Disciplinas"
-   link: ""
+   link: "courses.md"
  - name: "Cursos"
-   link: ""
+   link: "conferences.md"
  - name: "Projetos"
-   link: ""
+   link: "projects.md"
  - name: "Orientações"
-   link: ""
+   link: "advices.md"
    
