@@ -7,7 +7,7 @@ permalink: /about/
 ## Sobre Mim
 <!--- ## About Me -->
 
-<img class="profile-picture" src="bass.jpeg">
+<img class="profile-picture" src="/bass.jpeg">
 
 Sou professor do magistério superior da Universidade Federal do Oeste do Pará, lotado no Instituto de Biodiversidade e Florestas na unidade Tapajós em Santarém-PA. Estou cursando segundo doutorado no Programa de Pós-Graduação em Estatística e Experimentação Agronômica (PPGEA) pela Escola Superior de Agricultura "Luiz de Queiroz" (Esalq/USP) em Piracicaba-SP.
 
