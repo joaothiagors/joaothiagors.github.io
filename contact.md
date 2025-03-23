@@ -1,6 +1,7 @@
 ---
 layout: default
 is_contact: true
+permalink: /contact/
 ---
 
 * Email: [joao.trs@ufopa.edu.br](mailto:joao.trs@ufopa.edu.br)

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Sobre 
+title: Sobre
+permalink: /about/
 ---
 
 ## Sobre Mim
