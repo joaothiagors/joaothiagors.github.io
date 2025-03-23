@@ -16,7 +16,7 @@ Sou professor do magistério superior da Universidade Federal do Oeste do Pará,
 ## Interesses de Pesquisa
 <!-- ## Research Interest -->
 
-Desenvolvo pesquisas sobre Agroecologia, fruticultura, manejo e produção de açaí, aproveitamento de resíduos do menejo de açaizais nativos, processamento e fabricação de painéis laminados e colados de ripas de caule de aácizeiro e aplicação de modelos estatísticos para estimaçãao de redimento de caules de açaizeiro e predição do volume de suas ripas processadas.
+Desenvolvo pesquisas sobre Agroecologia, fruticultura, manejo e produção de açaí, aproveitamento de resíduos do manejo de açaizais nativos, processamento e fabricação de painéis laminados e colados de ripas de caule de açaizeiro e aplicação de modelos estatísticos para estimaçãao de redimento de caules de açaizeiro e predição do volume de suas ripas processadas.
 
 <!-- ## Publications
 
