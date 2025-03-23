@@ -36,7 +36,7 @@ Desenvolvo pesquisas sobre Agroecologia, fruticultura, manejo e produção de a�
   📍 Universidade Estadual do Maranhão (UEMA)
   📅 2007 - 2009
 
-- 🎓 **Graduação em Agronomica**
+- 🎓 **Graduação em Agronomia**
   📍 Universidade Federal Rural da Amazônia (UFRA)
   📅 2002 - 2006
 
