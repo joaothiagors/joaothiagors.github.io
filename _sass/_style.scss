@@ -139,11 +139,11 @@ footer {
 }
 
 footer a {
-    color: #f5f5f5; /* Links dentro do rodapé também ficam laranja */
+    color: $accent; /* Links dentro do rodapé também ficam laranja */
 }
 
 footer a:hover {
-    color: darken(#f5f5f5, 10%); /* Cor do link mais escura no hover */
+    color: darken($accent, 10%); /* Cor do link mais escura no hover */
 }
 
 @import "typography";
