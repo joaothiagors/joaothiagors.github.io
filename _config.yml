@@ -9,8 +9,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/joaothiagors"
-footer_text: "Adaptado de Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "joaothiagors (Adaptado de Ankit Sultana)"
 
 sass:
     style: compressed

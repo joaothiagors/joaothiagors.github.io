@@ -133,7 +133,7 @@ hr {
 /* Estilo para o rodapé */
 footer {
     background-color: black; /* Fundo preto */
-    color: whitesmoke; /* Cor laranja */
+    color: whitesmoke !important; /* Cor laranja */
     padding: 20px;
     text-align: center;
 }
