@@ -8,7 +8,7 @@ markdown: kramdown
 #ID para rastreamento (Google Analytics, por exemplo)
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: "joaothiagors (Adaptado de Ankit Sultana)"
 
